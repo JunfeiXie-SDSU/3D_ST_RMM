@@ -16,6 +16,7 @@ To run the z-dependent ST model, run the `z_dependent_withboundary.m` file.
 ## Paper citation
 Please cite the following paper if you used the code or any of the models.
 
+```
 @article{xie2018comprehensive,
   title={A comprehensive 3-dimensional random mobility modeling framework for airborne networks},
   author={Xie, Junfei and Wan, Yan and Wang, Baoqian and Fu, Shengli and Lu, Kejie and Kim, Jae H},
